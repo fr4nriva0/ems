@@ -20,7 +20,7 @@ You'll build an application that has a static home page, and also will accept HT
 
     http://localhost:8080/greeting
 
-and respond with a web page displaying HTML. The body of the HTML contains a greeting:
+and respond with a web sssspage displaying HTML. The body of the HTML contains a greeting:
 
     "Hello, World!"
 
